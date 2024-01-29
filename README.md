@@ -1,4 +1,5 @@
 ***AI Algorithms: Hill Climbing, A* Algorithm, and Uniform Cost Search***
+
 *Overview*
 This repository contains implementations of three fundamental artificial intelligence algorithms: Hill Climbing, A* Algorithm, and Uniform Cost Search. These algorithms are widely used in various domains including robotics, gaming, planning, and optimization problems.
 
